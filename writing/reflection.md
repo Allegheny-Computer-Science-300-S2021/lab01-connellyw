@@ -8,30 +8,30 @@ In this practical assignment, you are to add your responses to the questions in 
 
 Please write below this line to address the above-mentioned points. Replace the word,  with your response.
 
-### First Tool
-
- 1. What kind of research is this method or tool used for?
+## First Tool
+1
+	What kind of research is this method or tool used for?
  Computer aided drug design helps take the normally very challenging and time consuming task and makes it a more streamlined process.
 
  2. How does this method or tool work? What does it do?
  This tool helps drug companies validate drug targets.  This decreases the time the drugs take for them to hit the market.  It also helps speed up the development and research process of drugs.  This leads to more rapid development of helpful medicine.
 
  3. Why do you think that this method or tool was necessary to develop?
- This tool was necessary to develop because it helps reduce a process which takes significant chunk of time.
+ This tool was necessary to develop because it helps reduce a process which takes significant chunk of time.  This reduction of time translates to saving more lives with newly researched life saving medicine.
 
  4. What undesirable consequences could result from the misuse of this method of tool?
- An undesirable consequence would be too rapid of drug development.  If there was some error in the computer simulation, it might cause the medicine to look OK digitally but harm people when they actually take the drug.  There could also be problems with who the program is trying to target as it's selected market.  Certain groups would be selected but leave others out.  To get a fair representation of data, it would have to include a wide spread of people.'
+ An undesirable consequence would be too rapid of drug development.  If there was some error in the computer simulation, it might cause the medicine to look OK digitally but harm people when they actually take the drug.  There could also be problems with who the program is trying to target as it's selected market.  Certain groups would be selected but leave others out.  To get a fair representation of data, it would have to include a wide spread of people.
 
 ### Second Tool
+1
+	What kind of research is this method or tool used for?
+ Whole genome sequencing is used to gain a deeper understanding of a genome by sequencing all of it's DNA instead of just a segment of it.  It is used in pathogen research to understand and diagnose a virus.
 
- 1. What kind of research is this method or tool used for?
- Whole genome sequencing is used to gain a deeper understanding of a genome.  
+ How does this method or tool work? What does it do?
+ This method reduces the time it takes to get full samples of genomes.  This is useful when trying to understand a pathogen is a quick manner. With full genomes sequenced, it makes it possible to develop medicine faster.
 
- 2. How does this method or tool work? What does it do?
- This method reduces the time it takes to get full samples of genomes.  This is useful when trying to understand a pathogen.
-
- 3. Why do you think that this method or tool was necessary to develop?
+ Why do you think that this method or tool was necessary to develop?
  This tool was necessary to develop because it provides a pipeline for gene analyses which normally is a huge time commitment and not very practical.  There is a low amount of virus DNA from host samples, which makes it very hard to get enough to test.
 
- 4. What undesirable consequences could result from the misuse of this method of tool?
- This tool could be misused when someone who develops medicine before anyone else for a disease or pathogen and price gouge since they are the only ones able to make it.
+ What undesirable consequences could result from the misuse of this method of tool?
+ This tool could be misused when someone who develops medicine before anyone else for a disease or pathogen and price gouge since they are the only ones able to make it.  While a cheaper alternative would most likely would be developed, in a time of crisis, people that could not afford medicine could potentially die.
